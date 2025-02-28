@@ -1,4 +1,4 @@
-# Memory Game 
+# Memorize 
 
 This is a simple memory game project created using HTML, CSS, and JavaScript. The game involves remembering and repeating a sequence of colors as the level advances.
 
