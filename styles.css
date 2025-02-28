@@ -3,9 +3,19 @@ body {
   background-color: #020e1a;
 }
 
-#level-title {
+h1 {
   font-family: 'Press Start 2P', cursive;
   font-size: 2.5rem;
+  margin-top: 5%;
+  margin-right: 5%;
+  margin-left: 5%;
+  margin-bottom: 2%;
+  color: #FEF2BF;
+}
+
+#level-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2rem;
   margin-top: 5%;
   margin-right: 5%;
   margin-left: 5%;
